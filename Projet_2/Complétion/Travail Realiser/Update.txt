@@ -1,0 +1,5 @@
+
+
+## On a ajouté la classe Method.java qui contient la methode Decompose(Formule f) qui prend une formule comme paramètre et retourne une liste de liste de formules.  
+
+## Un exemple est prêt à être lancé  dans la classe  logicTest.java.  

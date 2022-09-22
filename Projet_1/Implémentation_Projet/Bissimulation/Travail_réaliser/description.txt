@@ -1,0 +1,6 @@
+* Implémentation de l'arbre avec les étiquettes sous les transitions plutôt que sur la racine.
+
+* Fin de l'implémentation de  l'algorithme de Kanellakis and Smolka avec plusieurs tests sur les exemples vue aux réunions.
+
+* Possibilité de l'appliquer sur un graphe qu'on créé manuellement avec le main.java de "Bissimulation/Travail_réaliser/Arbre_avec_etiquette_sous-transition et bissi/GT1"  
+  
